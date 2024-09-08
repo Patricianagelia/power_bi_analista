@@ -2,7 +2,7 @@
 
 Repositório relacionado à formação de analista de Power BI.
 
-## Criando Um relatório Genrencial de Vendas Com Power BI.
+## Criando Um relatório Gerencial de Vendas Com Power BI.
 
 ### IMAGEM DO PROJETO 
 
